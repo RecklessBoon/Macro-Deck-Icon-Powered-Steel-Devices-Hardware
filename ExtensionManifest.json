@@ -1,0 +1,9 @@
+{
+    "type" : "IconPack",
+    "name" : "Powered Steel (Devices Hardware)",
+    "author" : "RecklessBoon",
+    "repository" : "https://github.com/RecklessBoon/Macro-Deck-Icon-Powered-Steel-Devices-Hardware",
+    "packageId" : "RecklessBoon.PoweredSteel.DevicesHardware",
+    "version" : "1.0.0",
+    "target-plugin-api-version" : 36
+  }
